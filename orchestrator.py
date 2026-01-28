@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from typing import Literal, TypedDict
 
-from langgraph.graph import END, StateGraph
+from langgraph.graph import StateGraph, END
 
 from agents.email_generator import generate_email
 
