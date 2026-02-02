@@ -1,6 +1,6 @@
 # Toolhub
 
-Toolhub is a CLI-based AI assistant that uses LangChain, LangGraph, and OpenAI GPT‑4o to orchestrate multiple specialized agents (resume analyzer, email generator, code tools, web search, job search, and more) from a single menu-driven interface.
+Toolhub is a cli-based AI assistant that uses LangChain, LangGraph, and OpenAI GPT‑4o to orchestrate multiple specialized agents (resume analyzer, email generator, code tools, web search, job search, and more) from a single menu-driven interface.
 
 ## Features
 
